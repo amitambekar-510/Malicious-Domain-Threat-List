@@ -37,8 +37,7 @@ DNS filtering solutions
 Other security devices where IP blocking is possible within your environment
 
 RAW TXT Feed:
-https://raw.githubusercontent.com/<your-username>/Malicious-Domain-Threat-List/main/malicious_domains.txt
-
+https://raw.githubusercontent.com/amitambekar510/Malicious-Domain-Threat-List/refs/heads/main/Blacklisted%20Malicious%20Domain's%20Repo.txt
 
 🔄 Update Frequency
 
