@@ -3,9 +3,9 @@ A continuously updated list of malicious, suspicious and high-risk domains colle
 
 This repository is designed to help security teams, SOC analysts, researchers, and administrators block harmful domains at the network level.
 
-Update of the Malicious-Domain List on **2026-02-14 14:52 IST**
+Update of the Malicious-Domain List on **2026-02-16 12:55 IST**
 
-Total Malicious Domain's- **133300**
+Total Malicious Domain's- **133350**
 
 🔥 Why This Repository?
 
